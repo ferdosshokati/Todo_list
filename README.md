@@ -7,15 +7,19 @@ Perfect as a beginner-friendly GUI project.
 🚀 Features
 
 ➕ Add Tasks
+
 Type your task in the input box and add it to your list.
 
 🗑️ Delete Tasks
+
 Select a task in the list and remove it with one click.
 
 🔄 Clear All Tasks
+
 Remove all tasks from the list instantly.
 
 🎨 PyQt5 GUI
+
 Uses a .ui file created in Qt Designer for a clean interface.
 
 🧰 Requirements
